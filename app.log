@@ -1,0 +1,42 @@
+[2025-11-02 10:14:34] hit login_register.php with method=POST
+[2025-11-02 10:14:34] REGISTER attempt email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 10:14:34] REGISTER success email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 10:14:50] hit login_register.php with method=POST
+[2025-11-02 10:14:50] REGISTER attempt email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 10:15:20] hit login_register.php with method=POST
+[2025-11-02 10:15:20] LOGIN attempt email=briguimed.radhi@gmail.com
+[2025-11-02 10:15:20] LOGIN failed (bad password) email=briguimed.radhi@gmail.com
+[2025-11-02 10:15:35] hit login_register.php with method=POST
+[2025-11-02 10:15:35] REGISTER attempt email=dqddq@email.com, role=user
+[2025-11-02 10:15:35] REGISTER success email=dqddq@email.com, role=user
+[2025-11-02 10:15:44] hit login_register.php with method=POST
+[2025-11-02 10:15:44] LOGIN attempt email=dqddq@email.com
+[2025-11-02 10:15:44] LOGIN success email=dqddq@email.com, role=user
+[2025-11-02 11:08:15] hit login_register.php with method=POST
+[2025-11-02 11:08:15] REGISTER attempt email=Radhi.brigui@gmail.com, role=user
+[2025-11-02 11:08:15] REGISTER success email=Radhi.brigui@gmail.com, role=user
+[2025-11-02 11:08:35] hit login_register.php with method=POST
+[2025-11-02 11:08:35] LOGIN attempt email=Radhi.brigui@gmail.com
+[2025-11-02 11:08:35] LOGIN success email=Radhi.brigui@gmail.com, role=user
+[2025-11-02 11:09:10] hit login_register.php with method=POST
+[2025-11-02 11:09:10] REGISTER attempt email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 11:09:10] REGISTER success email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 11:09:16] hit login_register.php with method=POST
+[2025-11-02 11:09:16] LOGIN attempt email=briguimed.radhi@gmail.com
+[2025-11-02 11:09:16] LOGIN success email=briguimed.radhi@gmail.com, role=user
+[2025-11-02 16:35:47] hit login_register.php with method=POST
+[2025-11-02 16:35:47] REGISTER attempt email=si-b@gmail.com, role=user
+[2025-11-02 16:35:47] REGISTER success email=si-b@gmail.com, role=user
+[2025-11-02 16:37:15] hit login_register.php with method=POST
+[2025-11-02 16:37:15] LOGIN attempt email=si-b@gmail.com
+[2025-11-02 16:37:15] LOGIN success email=si-b@gmail.com, role=user
+[2025-11-02 16:37:40] hit login_register.php with method=POST
+[2025-11-02 16:37:40] REGISTER attempt email=si-b@gmail.com, role=admin
+[2025-11-02 16:37:47] hit login_register.php with method=POST
+[2025-11-02 16:37:47] REGISTER attempt email=Radhi.brigui@gmail.com, role=admin
+[2025-11-02 16:37:47] REGISTER success email=Radhi.brigui@gmail.com, role=admin
+[2025-11-02 16:38:12] hit login_register.php with method=POST
+[2025-11-02 16:38:12] REGISTER attempt email=dqddq@email.com, role=admin
+[2025-11-02 16:38:29] hit login_register.php with method=POST
+[2025-11-02 16:38:29] REGISTER attempt email=dqddq@email.com, role=admin
+[2025-11-02 16:38:29] REGISTER success email=dqddq@email.com, role=admin
